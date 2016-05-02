@@ -20,4 +20,4 @@ And you should be given a URL. Visit it in you're browser or console of choice a
 $ curl https://webtask.it.auth0.com/api/run/<yours>/broadwell?webtask_no_cache=1&channel=<your_channel>&user=<username>&topic=<query>
 ```
 
-If you don't provide the user parameter, it will set to default "Webtask" username, other parameters are required.
+If you don't provide the user parameter, it will set it to default "Webtask" username, the other parameters are required.

@@ -12,7 +12,7 @@ wt create https://raw.githubusercontent.com/andresgallego/broadwell/master/broad
     --secret twitter_consumer_key={your_twitter_consumer_key} \
     --secret twitter_consumer_secret={your_twitter_consumer_secret} \
     --secret twitter_access_token={your_twitter_access_token} \
-    --secret twitter_access_token_secret={your_twitter_access_token_secret} \
+    --secret twitter_access_token_secret={your_twitter_access_token_secret}
 ```
 And you should be given a URL. Visit it in you're browser or console of choice and add the next parameters to the end of the address
 

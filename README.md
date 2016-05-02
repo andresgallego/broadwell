@@ -1,6 +1,6 @@
-# Post the latest tweet about any query parameter in a slack channel using Auth0 webtasks
+# Post the latest tweet about any query parameter to a slack channel using Auth0 webtasks
 
-With [Auth0 Webtasks](https://webtask.io) you can post in a slack channel the latest tweet about any query parameter without worrying about backend.
+With [Auth0 Webtasks](https://webtask.io) you can post to a slack channel the latest tweet about any query parameter without worrying about backend.
 
 Follow these 3 steps:
 

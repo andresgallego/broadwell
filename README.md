@@ -14,7 +14,7 @@ wt create https://raw.githubusercontent.com/andresgallego/broadwell/master/broad
     --secret twitter_access_token={your_twitter_access_token} \
     --secret twitter_access_token_secret={your_twitter_access_token_secret}
 ```
-And you should be given a URL. Visit it in you're browser or console of choice and add the next parameters to the end of the address
+And you should be given a URL. Visit it in your browser or console of choice and add the next parameters to the end of the address
 
 ```bash
 $ curl https://webtask.it.auth0.com/api/run/<yours>/broadwell?webtask_no_cache=1&channel=<your_channel>&user=<username>&topic=<query>
